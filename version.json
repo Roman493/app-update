@@ -1,9 +1,9 @@
 {
-  "versionCode": 245,
-  "versionName": "2.1.45",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.45/app-v2.1.45-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.45/app-v2.1.45-arm64.apk"],
-  "sha256": "db9715182678d6e39aaf9751380533f90f684c5c40457d5d930ce233ba24a44c",
-  "changelog": "AI 录入支持小区限定 + 自动匹配物业公司",
+  "versionCode": 246,
+  "versionName": "2.1.46",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.46/app-v2.1.46-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.46/app-v2.1.46-arm64.apk"],
+  "sha256": "727eb7def9b89b61b3822ddd7e0a3bde9f329720bb3fc18bd23fe3f7ef649d3d",
+  "changelog": "AI 接入工具层：可改记录/日程（确认后执行）",
   "force": false
 }
