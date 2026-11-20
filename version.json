@@ -1,9 +1,9 @@
 {
-  "versionCode": 232,
-  "versionName": "2.1.32",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.32/app-v2.1.32-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.32/app-v2.1.32-arm64.apk"],
-  "sha256": "ea64c72ef4ba76619a97b742e03389c780bb6b35b5c6bfea7043ee0c500effc3",
-  "changelog": "移除扫描功能，包体 47.4MB → 26.4MB",
+  "versionCode": 233,
+  "versionName": "2.1.33",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.33/app-v2.1.33-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.33/app-v2.1.33-arm64.apk"],
+  "sha256": "5d41b680f1b19f027e6e6732776e3eb2f510efce8201ed0f241bc16e7c6ebc33",
+  "changelog": "PDF 工具支持本地库/材料库选源；本地库跨模块；支持分享到微信等",
   "force": false
 }
