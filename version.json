@@ -1,9 +1,9 @@
 {
-  "versionCode": 248,
-  "versionName": "2.1.48",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.48/app-v2.1.48-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.48/app-v2.1.48-arm64.apk"],
-  "sha256": "2fed755aacc4e6a72f4cb8b9a98b37a355739cd99df58e99731351faf12a871f",
-  "changelog": "AI 对话整段保存为 Word",
+  "versionCode": 249,
+  "versionName": "2.1.49",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.49/app-v2.1.49-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.49/app-v2.1.49-arm64.apk"],
+  "sha256": "1046c22df3280df92b1eacf2143fe0c302a8e1abafd787d9de354bf58e0034da",
+  "changelog": "网络恢复自动补传；拉取前先补传",
   "force": false
 }
