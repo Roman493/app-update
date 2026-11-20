@@ -1,8 +1,8 @@
 {
-  "versionCode": 214,
-  "versionName": "2.1.14",
-  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.14/app-v2.1.14.apk",
-  "sha256": "83de758e70d45c6334b14164fbd0a1b73aa9a7bd9c78f37d44127789c3ebdf4c",
-  "changelog": "自更新验证：检查版本、下载安装包、校验并调起安装",
+  "versionCode": 215,
+  "versionName": "2.1.15",
+  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.15/app-v2.1.15.apk",
+  "sha256": "22fab13470ad8324ac8fe3d31db8095c2154e61efa4bac556eaffdb73afeb275",
+  "changelog": "返回列表保留筛选与滚动位置；修复标题显示、附件预览",
   "force": false
 }
