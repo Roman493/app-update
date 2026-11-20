@@ -1,9 +1,9 @@
 {
-  "versionCode": 233,
-  "versionName": "2.1.33",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.33/app-v2.1.33-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.33/app-v2.1.33-arm64.apk"],
-  "sha256": "5d41b680f1b19f027e6e6732776e3eb2f510efce8201ed0f241bc16e7c6ebc33",
-  "changelog": "PDF 工具支持本地库/材料库选源；本地库跨模块；支持分享到微信等",
+  "versionCode": 234,
+  "versionName": "2.1.34",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.34/app-v2.1.34-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.34/app-v2.1.34-arm64.apk"],
+  "sha256": "aef36c1fe91dcab0aae88bad41b972312db99480ae69539ffcb57f1d4715b023",
+  "changelog": "材料库改版：记录标题为主、缩略图、长按多选",
   "force": false
 }
