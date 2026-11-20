@@ -1,9 +1,9 @@
 {
-  "versionCode": 229,
-  "versionName": "2.1.29",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.29/app-v2.1.29-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.29/app-v2.1.29-arm64.apk"],
-  "sha256": "92cf4c4ca92d948e4f71ee4ae46c5cdc149258c3631ba06f07f4bec7676f913d",
-  "changelog": "扫描自动识别优化：按纸面抠图取四角",
+  "versionCode": 230,
+  "versionName": "2.1.30",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.30/app-v2.1.30-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.30/app-v2.1.30-arm64.apk"],
+  "sha256": "aad203d9861a2f38eae29511a63faae3f283ddf3924f026013f0e5c741978073",
+  "changelog": "附件支持从手机相册选择；扫描自动识别优化",
   "force": false
 }
