@@ -1,9 +1,9 @@
 {
-  "versionCode": 228,
-  "versionName": "2.1.28",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.28/app-v2.1.28-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.28/app-v2.1.28-arm64.apk"],
-  "sha256": "409251c9eac8636bfa346be5b61bbe06a46ebc0af49de7b483951db066888e0b",
-  "changelog": "附件支持从本地库选择；本地库缩略图与在线预览",
+  "versionCode": 229,
+  "versionName": "2.1.29",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.29/app-v2.1.29-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.29/app-v2.1.29-arm64.apk"],
+  "sha256": "92cf4c4ca92d948e4f71ee4ae46c5cdc149258c3631ba06f07f4bec7676f913d",
+  "changelog": "扫描自动识别优化：按纸面抠图取四角",
   "force": false
 }
