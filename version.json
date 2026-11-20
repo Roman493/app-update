@@ -1,9 +1,9 @@
 {
-  "versionCode": 217,
-  "versionName": "2.1.17",
-  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.17/app-v2.1.17.apk",
+  "versionCode": 218,
+  "versionName": "2.1.18",
+  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.18/app-v2.1.18-arm64.apk",
   "apkUrls": [],
-  "sha256": "8fe888864b4e073d361fe5b1f62f3ec88aadd561538b932c4a61f89c72cb6687",
-  "changelog": "更新支持多下载源、失败重试、浏览器兜底",
+  "sha256": "d81e96c906ac74acdc1cb63acd5cc495e266d96b495501fdf68cc8c3ac2a9d4c",
+  "changelog": "精简安装包（62MB→18MB），功能不变；更新支持多源与浏览器兜底",
   "force": false
 }
