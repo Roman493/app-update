@@ -1,9 +1,9 @@
 {
-  "versionCode": 241,
-  "versionName": "2.1.41",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.41/app-v2.1.41-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.41/app-v2.1.41-arm64.apk"],
-  "sha256": "3957b5b453fb4cbd509c3e087020399468f3f9d0779cf7642d8db7ff6992bd13",
-  "changelog": "AI 助手：会话历史抽屉 + 录入指令直接执行",
+  "versionCode": 242,
+  "versionName": "2.1.42",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.42/app-v2.1.42-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.42/app-v2.1.42-arm64.apk"],
+  "sha256": "7599325e7b61fbe19eb3fe15b2cb342902c37a63bfdea8ac501f2c151596abee",
+  "changelog": "工作日程不再同步云端（个人数据）",
   "force": false
 }
