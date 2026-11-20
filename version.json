@@ -1,8 +1,8 @@
 {
-  "versionCode": 213,
-  "versionName": "2.1.13",
-  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.13/app-v2.1.13.apk",
-  "sha256": "30d7fe048a3ad04c5fe19c72287c2096447c64bf3d476890ccfd171ec17cd1eb",
-  "changelog": "修复标题显示、附件预览与照片压缩；新增 AI 起草与到期预警",
+  "versionCode": 214,
+  "versionName": "2.1.14",
+  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.14/app-v2.1.14.apk",
+  "sha256": "83de758e70d45c6334b14164fbd0a1b73aa9a7bd9c78f37d44127789c3ebdf4c",
+  "changelog": "自更新验证：检查版本、下载安装包、校验并调起安装",
   "force": false
 }
