@@ -1,9 +1,9 @@
 {
-  "versionCode": 238,
-  "versionName": "2.1.38",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.38/app-v2.1.38-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.38/app-v2.1.38-arm64.apk"],
-  "sha256": "058201e828658a12756c69fc037a1979e32f86585a9bd7f6ac23a9c600130b69",
-  "changelog": "新增智能导入台账（Excel/Word/PDF/图片 → 自动识别录入）",
+  "versionCode": 239,
+  "versionName": "2.1.39",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.39/app-v2.1.39-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.39/app-v2.1.39-arm64.apk"],
+  "sha256": "0d50acdf1557759bda211aa07ab9b3be9ae42c1f9213852ef8fca105c74282a7",
+  "changelog": "新增 AI 助手：对话+附件、文档转日程、成果存 Word",
   "force": false
 }
