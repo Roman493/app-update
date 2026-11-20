@@ -1,9 +1,9 @@
 {
-  "versionCode": 237,
-  "versionName": "2.1.37",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.37/app-v2.1.37-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.37/app-v2.1.37-arm64.apk"],
-  "sha256": "f4e7352737f743e1b62514bf1d880a89721d957d604407d780ea34621d54b95d",
-  "changelog": "同步提速：附件不重复下载、跳过重复清理、多表并发",
+  "versionCode": 238,
+  "versionName": "2.1.38",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.38/app-v2.1.38-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.38/app-v2.1.38-arm64.apk"],
+  "sha256": "058201e828658a12756c69fc037a1979e32f86585a9bd7f6ac23a9c600130b69",
+  "changelog": "新增智能导入台账（Excel/Word/PDF/图片 → 自动识别录入）",
   "force": false
 }
