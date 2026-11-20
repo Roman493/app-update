@@ -1,9 +1,9 @@
 {
-  "versionCode": 249,
-  "versionName": "2.1.49",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.49/app-v2.1.49-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.49/app-v2.1.49-arm64.apk"],
-  "sha256": "1046c22df3280df92b1eacf2143fe0c302a8e1abafd787d9de354bf58e0034da",
-  "changelog": "网络恢复自动补传；拉取前先补传",
+  "versionCode": 250,
+  "versionName": "2.1.50",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.50/app-v2.1.50-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.50/app-v2.1.50-arm64.apk"],
+  "sha256": "ed2522733f298131106b7deb5dd6e341ff2519c3c29c08908146a9d01b2f9b25",
+  "changelog": "同步页补传入口；只推送改动记录",
   "force": false
 }
