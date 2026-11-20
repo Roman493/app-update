@@ -1,8 +1,8 @@
 {
-  "versionCode": 215,
-  "versionName": "2.1.15",
-  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.15/app-v2.1.15.apk",
-  "sha256": "22fab13470ad8324ac8fe3d31db8095c2154e61efa4bac556eaffdb73afeb275",
-  "changelog": "返回列表保留筛选与滚动位置；修复标题显示、附件预览",
+  "versionCode": 216,
+  "versionName": "2.1.16",
+  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.16/app-v2.1.16.apk",
+  "sha256": "709085a4609ef7b10fd23f2f416a9afa93ddb4b43aaf13cdeacf92adf4d6b3db",
+  "changelog": "本地模式隐藏权限管理、API 授权与更新地址",
   "force": false
 }
