@@ -1,9 +1,9 @@
 {
-  "versionCode": 239,
-  "versionName": "2.1.39",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.39/app-v2.1.39-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.39/app-v2.1.39-arm64.apk"],
-  "sha256": "0d50acdf1557759bda211aa07ab9b3be9ae42c1f9213852ef8fca105c74282a7",
-  "changelog": "新增 AI 助手：对话+附件、文档转日程、成果存 Word",
+  "versionCode": 240,
+  "versionName": "2.1.40",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.40/app-v2.1.40-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.40/app-v2.1.40-arm64.apk"],
+  "sha256": "e5d9780d0b2e871443813248e09be179d5ca8847cc68812a702dc3e3a5d86920",
+  "changelog": "AI 助手统一为对话：可一次解析多条日程并逐条加入",
   "force": false
 }
