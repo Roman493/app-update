@@ -1,9 +1,9 @@
 {
-  "versionCode": 247,
-  "versionName": "2.1.47",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.47/app-v2.1.47-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.47/app-v2.1.47-arm64.apk"],
-  "sha256": "8368bd1d29661d521e400b77ddf90b423e0bd533d237c06f9eb637195dfeea95",
-  "changelog": "AI 本地意图直译 + 多步执行 + 影响面预览",
+  "versionCode": 248,
+  "versionName": "2.1.48",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.48/app-v2.1.48-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.48/app-v2.1.48-arm64.apk"],
+  "sha256": "2fed755aacc4e6a72f4cb8b9a98b37a355739cd99df58e99731351faf12a871f",
+  "changelog": "AI 对话整段保存为 Word",
   "force": false
 }
