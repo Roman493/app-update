@@ -1,9 +1,9 @@
 {
-  "versionCode": 242,
-  "versionName": "2.1.42",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.42/app-v2.1.42-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.42/app-v2.1.42-arm64.apk"],
-  "sha256": "7599325e7b61fbe19eb3fe15b2cb342902c37a63bfdea8ac501f2c151596abee",
-  "changelog": "工作日程不再同步云端（个人数据）",
+  "versionCode": 243,
+  "versionName": "2.1.43",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.43/app-v2.1.43-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.43/app-v2.1.43-arm64.apk"],
+  "sha256": "66f7674a73de5a8c5f3689cfb57ff39fce49bc5a0b02a4bcc0bcc7d9f0932ad9",
+  "changelog": "AI 助手支持按小区名筛选待录入数据",
   "force": false
 }
