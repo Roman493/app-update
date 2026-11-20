@@ -1,8 +1,9 @@
 {
-  "versionCode": 216,
-  "versionName": "2.1.16",
-  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.16/app-v2.1.16.apk",
-  "sha256": "709085a4609ef7b10fd23f2f416a9afa93ddb4b43aaf13cdeacf92adf4d6b3db",
-  "changelog": "本地模式隐藏权限管理、API 授权与更新地址",
+  "versionCode": 217,
+  "versionName": "2.1.17",
+  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.17/app-v2.1.17.apk",
+  "apkUrls": [],
+  "sha256": "8fe888864b4e073d361fe5b1f62f3ec88aadd561538b932c4a61f89c72cb6687",
+  "changelog": "更新支持多下载源、失败重试、浏览器兜底",
   "force": false
 }
