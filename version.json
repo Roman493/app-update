@@ -1,9 +1,9 @@
 {
-  "versionCode": 235,
-  "versionName": "2.1.35",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.35/app-v2.1.35-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.35/app-v2.1.35-arm64.apk"],
-  "sha256": "a4834c18c00b948a22b2f708a4a9a608b99e5038b8ab4daf94390c629aecbeba",
-  "changelog": "材料库：显示上传时间、按时间倒序、图片与文档分区",
+  "versionCode": 236,
+  "versionName": "2.1.36",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.36/app-v2.1.36-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.36/app-v2.1.36-arm64.apk"],
+  "sha256": "3d114a5fe63ca241d15a43d02f55bdc338966a0db9c5e8f14c3505bf156189d4",
+  "changelog": "筛选改为 Excel 式：每字段 ▾ 展开可选值",
   "force": false
 }
