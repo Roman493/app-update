@@ -1,8 +1,8 @@
 {
-  "versionCode": 225,
-  "versionName": "2.1.25",
-  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.25/app-v2.1.25-arm64.apk",
-  "sha256": "7370884dd486ab14e25af7b461ffd80f8dbddd8e815379ff89c127ad950b6b7e",
-  "changelog": "新增 PDF 工具：合并、拆分、提取、旋转、压缩、转图片",
+  "versionCode": 226,
+  "versionName": "2.1.26",
+  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.26/app-v2.1.26-arm64.apk",
+  "sha256": "1e2df321d0893766945e9cebcce592c607f140c64a5b4b94a4a61e5f2da1c201",
+  "changelog": "PDF 转 Word/Excel（扫描件 OCR）；工作台到期提醒；列表附件数",
   "force": false
 }
