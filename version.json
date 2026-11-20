@@ -1,8 +1,8 @@
 {
-  "versionCode": 223,
-  "versionName": "2.1.23",
-  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.23/app-v2.1.23-arm64.apk",
-  "sha256": "683c0dd8fe3bd3c1a146e1c6cf4be6cf4b486d21e5859a89b2f8974423185727",
-  "changelog": "新增扫描成 PDF（自动识别四角、透视矫正、增强、多页合成）",
+  "versionCode": 224,
+  "versionName": "2.1.24",
+  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.24/app-v2.1.24-arm64.apk",
+  "sha256": "446db03b8dabf37e8b4f40a0963c9e97d770fe7c6ed5dad6c2eb3d9353a32271",
+  "changelog": "写入即校验 + 启动自愈（失效附件、重复编号）",
   "force": false
 }
