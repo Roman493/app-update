@@ -3,7 +3,7 @@
   "versionName": "2.1.27",
   "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.27/app-v2.1.27-arm64.apk",
   "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.27/app-v2.1.27-arm64.apk"],
-  "sha256": "",
+  "sha256": "a8662044a20c7fc16ce230df56a17ffa802b69baebd1c13253586a7b0b95f6a6",
   "changelog": "到期提醒移到消息页；PDF 转 Word/Excel；列表显示附件数",
   "force": false
 }
