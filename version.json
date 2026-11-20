@@ -1,9 +1,9 @@
 {
-  "versionCode": 231,
-  "versionName": "2.1.31",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.31/app-v2.1.31-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.31/app-v2.1.31-arm64.apk"],
-  "sha256": "3084f213b0c3ad99a2c79f714a0593131becd7a9bd493a4833fae4c6b6769aa3",
-  "changelog": "扫描识别重写：多策略打分、整页模式、更大的拖拽点",
+  "versionCode": 232,
+  "versionName": "2.1.32",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.32/app-v2.1.32-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.32/app-v2.1.32-arm64.apk"],
+  "sha256": "ea64c72ef4ba76619a97b742e03389c780bb6b35b5c6bfea7043ee0c500effc3",
+  "changelog": "移除扫描功能，包体 47.4MB → 26.4MB",
   "force": false
 }
