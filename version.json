@@ -1,8 +1,8 @@
 {
-  "versionCode": 220,
-  "versionName": "2.1.20",
-  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.20/app-v2.1.20-arm64.apk",
-  "sha256": "d2a53574be512864eff6591c1b2bb08664f4f9f5b0c9726b39bdedb7f166924f",
-  "changelog": "新增工具箱（拼图、本地库）；材料库支持筛选与导出 ZIP",
+  "versionCode": 221,
+  "versionName": "2.1.21",
+  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.21/app-v2.1.21-arm64.apk",
+  "sha256": "8608d2135648ac0f95fcc14ae888db1b2ae6e3b90bd376fdbde355dfd5e5fe55",
+  "changelog": "排序支持按固定编号；工作台新增工具箱与材料库入口",
   "force": false
 }
