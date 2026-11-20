@@ -1,8 +1,8 @@
 {
-  "versionCode": 226,
-  "versionName": "2.1.26",
-  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.26/app-v2.1.26-arm64.apk",
-  "sha256": "1e2df321d0893766945e9cebcce592c607f140c64a5b4b94a4a61e5f2da1c201",
-  "changelog": "PDF 转 Word/Excel（扫描件 OCR）；工作台到期提醒；列表附件数",
+  "versionCode": 227,
+  "versionName": "2.1.27",
+  "apkUrl": "https://github.com/Roman493/app-update/releases/download/v2.1.27/app-v2.1.27-arm64.apk",
+  "sha256": "a8662044a20c7fc16ce230df56a17ffa802b69baebd1c13253586a7b0b95f6a6",
+  "changelog": "到期提醒卡移到消息页",
   "force": false
 }
