@@ -1,9 +1,9 @@
 {
-  "versionCode": 243,
-  "versionName": "2.1.43",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.43/app-v2.1.43-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.43/app-v2.1.43-arm64.apk"],
-  "sha256": "66f7674a73de5a8c5f3689cfb57ff39fce49bc5a0b02a4bcc0bcc7d9f0932ad9",
-  "changelog": "AI 助手支持按小区名筛选待录入数据",
+  "versionCode": 244,
+  "versionName": "2.1.44",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.44/app-v2.1.44-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.44/app-v2.1.44-arm64.apk"],
+  "sha256": "7afd7afefc5ffe43f6d51ef03f98dc5e66fee967656281f57f88082492108584",
+  "changelog": "列表内联多选 + 长按菜单",
   "force": false
 }
