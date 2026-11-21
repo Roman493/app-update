@@ -1,9 +1,9 @@
 {
-  "versionCode": 254,
-  "versionName": "2.1.54",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.54/app-v2.1.54-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.54/app-v2.1.54-arm64.apk"],
-  "sha256": "e010633404e452b37b0e0398822eda2762588b4cf1bf9b0e6a5de48c195274ad",
-  "changelog": "修正安全管理统计口径",
+  "versionCode": 255,
+  "versionName": "2.1.55",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.55/app-v2.1.55-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.55/app-v2.1.55-arm64.apk"],
+  "sha256": "6b57d1e852281ec261174ae4f55ac0f173f98e349d09d82f6ff91d24412e2673",
+  "changelog": "安全管理统计层级口径：总数/已完成/待整改（其中逾期）",
   "force": false
 }
