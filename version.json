@@ -1,9 +1,9 @@
 {
-  "versionCode": 255,
-  "versionName": "2.1.55",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.55/app-v2.1.55-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.55/app-v2.1.55-arm64.apk"],
-  "sha256": "6b57d1e852281ec261174ae4f55ac0f173f98e349d09d82f6ff91d24412e2673",
-  "changelog": "安全管理统计层级口径：总数/已完成/待整改（其中逾期）",
+  "versionCode": 256,
+  "versionName": "2.1.56",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.56/app-v2.1.56-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.56/app-v2.1.56-arm64.apk"],
+  "sha256": "ef77cc6f91f43d0874c4bfe6099169bf53f32dda1683ad31f09d1237303e651f",
+  "changelog": "年度账套：本地按年分目录、云端按年分表",
   "force": false
 }
