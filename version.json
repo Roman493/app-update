@@ -1,9 +1,9 @@
 {
-  "versionCode": 253,
-  "versionName": "2.1.53",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.53/app-v2.1.53-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.53/app-v2.1.53-arm64.apk"],
-  "sha256": "8b3f3cad1db1676f175374713b6b5dc29762371503d04e8bbed4ab77fd6b8bb4",
-  "changelog": "AI 对话自动滚动到最新",
+  "versionCode": 254,
+  "versionName": "2.1.54",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.54/app-v2.1.54-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.54/app-v2.1.54-arm64.apk"],
+  "sha256": "e010633404e452b37b0e0398822eda2762588b4cf1bf9b0e6a5de48c195274ad",
+  "changelog": "修正安全管理统计口径",
   "force": false
 }
