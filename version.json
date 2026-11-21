@@ -1,9 +1,9 @@
 {
-  "versionCode": 251,
-  "versionName": "2.1.51",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.51/app-v2.1.51-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.51/app-v2.1.51-arm64.apk"],
-  "sha256": "be06d7ef60548f638772f651eab09bf1d6330ddbaf877a4ce6a1f2d4b84831ee",
-  "changelog": "AI 解析兼容 type/action；格式错误自动纠正",
+  "versionCode": 252,
+  "versionName": "2.1.52",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.52/app-v2.1.52-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.52/app-v2.1.52-arm64.apk"],
+  "sha256": "8b0390a92927dadb5a8b23be903e03df96a7e3ecdb92365d23fb543222dcc47d",
+  "changelog": "AI 助手：对话记忆、JSON 模式、按需查询、多轮工具",
   "force": false
 }
