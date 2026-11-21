@@ -1,9 +1,9 @@
 {
-  "versionCode": 258,
-  "versionName": "2.1.58",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.58/app-v2.1.58-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.58/app-v2.1.58-arm64.apk"],
-  "sha256": "d3433cfe8dfd115f6f3168d43b3d6ba3bca126099578f2b637d53104df48606d",
-  "changelog": "名称归一通用化：四个维度",
+  "versionCode": 259,
+  "versionName": "2.1.59",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.59/app-v2.1.59-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.59/app-v2.1.59-arm64.apk"],
+  "sha256": "dd0955118fc3b2f4c7bc847f7fb286b451a0e28e8e418db249e11465990a077a",
+  "changelog": "资料库/信息库跨年度共用，不按年分账",
   "force": false
 }
