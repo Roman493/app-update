@@ -1,9 +1,9 @@
 {
-  "versionCode": 252,
-  "versionName": "2.1.52",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.52/app-v2.1.52-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.52/app-v2.1.52-arm64.apk"],
-  "sha256": "8b0390a92927dadb5a8b23be903e03df96a7e3ecdb92365d23fb543222dcc47d",
-  "changelog": "AI 助手：对话记忆、JSON 模式、按需查询、多轮工具",
+  "versionCode": 253,
+  "versionName": "2.1.53",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.53/app-v2.1.53-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.53/app-v2.1.53-arm64.apk"],
+  "sha256": "8b3f3cad1db1676f175374713b6b5dc29762371503d04e8bbed4ab77fd6b8bb4",
+  "changelog": "AI 对话自动滚动到最新",
   "force": false
 }
