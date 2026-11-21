@@ -1,9 +1,9 @@
 {
-  "versionCode": 257,
-  "versionName": "2.1.57",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.57/app-v2.1.57-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.57/app-v2.1.57-arm64.apk"],
-  "sha256": "bf076c82693e672e35c6e07281032b04086244a52912540c90a7b7391661e3bc",
-  "changelog": "小区名归一工具；2027 云端表已建",
+  "versionCode": 258,
+  "versionName": "2.1.58",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.58/app-v2.1.58-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.58/app-v2.1.58-arm64.apk"],
+  "sha256": "d3433cfe8dfd115f6f3168d43b3d6ba3bca126099578f2b637d53104df48606d",
+  "changelog": "名称归一通用化：四个维度",
   "force": false
 }
