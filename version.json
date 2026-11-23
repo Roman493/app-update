@@ -1,11 +1,11 @@
 {
-    "changelog":  "批处理：映射可填固定文字、上传非docx直接提示、附件原件进zip；顶栏适配不同机型；AI助手：思考过程/上下文/写入同步云端",
+    "changelog":  "批处理：Word里打@即可当占位符；图片每页2张、图下居中命名（字段自由组合）+生成前确认；字段映射改全屏页；修复带图片生成崩溃",
     "force":  false,
-    "versionName":  "2.1.68",
-    "sha256":  "f8eb7ac8c25e19107ba4d425b026e3e8d0aa91cbf43ceacfb11aae60f5850667",
-    "versionCode":  268,
+    "versionName":  "2.1.69",
+    "sha256":  "5878b2e06c7508aab6fed45b6d632d5ee3c184d26ab645c0cd16f433d11741f2",
+    "versionCode":  269,
     "apkUrls":  [
-                    "https://github.com/Roman493/app-update/releases/download/v2.1.68/app-v2.1.68-arm64.apk"
+                    "https://github.com/Roman493/app-update/releases/download/v2.1.69/app-v2.1.69-arm64.apk"
                 ],
-    "apkUrl":  "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.68/app-v2.1.68-arm64.apk"
+    "apkUrl":  "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.69/app-v2.1.69-arm64.apk"
 }
