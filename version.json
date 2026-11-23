@@ -1,9 +1,9 @@
 {
-  "versionCode": 263,
-  "versionName": "2.1.63",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.63/app-v2.1.63-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.63/app-v2.1.63-arm64.apk"],
-  "sha256": "399f3fefe14bed41ae516d7d7aa74e7d55508e5bb9d6677e3989a8edf1afb819",
-  "changelog": "批处理移入工具箱",
+  "versionCode": 265,
+  "versionName": "2.1.65",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.65/app-v2.1.65-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.65/app-v2.1.65-arm64.apk"],
+  "sha256": "42b070e214b3dc9690d0cae00592c192214babb7d3c6bf045ee1d3210539bd1f",
+  "changelog": "批处理模板识别改进；支持删除模板",
   "force": false
 }
