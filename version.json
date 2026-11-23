@@ -1,9 +1,9 @@
 {
-  "versionCode": 260,
-  "versionName": "2.1.60",
-  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.60/app-v2.1.60-arm64.apk",
-  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.60/app-v2.1.60-arm64.apk"],
-  "sha256": "9469c1a05857d873b6bb17c92c25dba5d4af9f18bbe2045e7f21a0f249323752",
-  "changelog": "工作成果：模板批量生成（P1）",
+  "versionCode": 261,
+  "versionName": "2.1.61",
+  "apkUrl": "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.61/app-v2.1.61-arm64.apk",
+  "apkUrls": ["https://github.com/Roman493/app-update/releases/download/v2.1.61/app-v2.1.61-arm64.apk"],
+  "sha256": "bb3cd92d62f41ab2ba29b3ed659c51f3d7c40c7b635c5c9b7a8850bd0a172245",
+  "changelog": "工作成果可点进入；表单模板自动识别空白格",
   "force": false
 }
