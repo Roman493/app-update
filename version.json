@@ -1,11 +1,11 @@
 {
-    "changelog":  "数据同步：新增「修复云端」全量重传（云端缺字段时一键补齐）；修复新建云端记录只写编号造成空壳记录",
+    "changelog":  "安全管理：复查信息改名为销号情况（销号结果/人/时间）；小区统计改为 整改中/其中已逾期/已整改/其中已销号",
     "force":  false,
-    "versionName":  "2.1.70",
-    "sha256":  "49153ce1db15cfe208208066cf9d278021301aba241e193c5646c38d264a85fe",
-    "versionCode":  270,
+    "versionName":  "2.1.71",
+    "sha256":  "c2bf9b9fb0d229af592b4802422ccb342284bbee446a66db175cd0f725ec3ccf",
+    "versionCode":  271,
     "apkUrls":  [
-                    "https://github.com/Roman493/app-update/releases/download/v2.1.70/app-v2.1.70-arm64.apk"
+                    "https://github.com/Roman493/app-update/releases/download/v2.1.71/app-v2.1.71-arm64.apk"
                 ],
-    "apkUrl":  "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.70/app-v2.1.70-arm64.apk"
+    "apkUrl":  "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.71/app-v2.1.71-arm64.apk"
 }
