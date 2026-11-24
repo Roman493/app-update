@@ -1,11 +1,11 @@
 {
-    "changelog":  "操作日志可撤销：改记录/复查销号/删除/新增一键还原，撤销后自动同步云端",
+    "changelog":  "AI助手认识界面叫法（销号情况/待销号等自动映射字段），批量指令先查再批量改；导出表头统一销号口径",
     "force":  false,
-    "versionName":  "2.1.72",
-    "sha256":  "8591409881cf3ae6d91e2f2351ebeb5674ec8c73cf6f704c5f819978654e474a",
-    "versionCode":  272,
+    "versionName":  "2.1.73",
+    "sha256":  "7d491be48ba8432bcb9e55b82e5f46eb2bd96cdd4558022837e86be959021be9",
+    "versionCode":  273,
     "apkUrls":  [
-                    "https://github.com/Roman493/app-update/releases/download/v2.1.72/app-v2.1.72-arm64.apk"
+                    "https://github.com/Roman493/app-update/releases/download/v2.1.73/app-v2.1.73-arm64.apk"
                 ],
-    "apkUrl":  "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.72/app-v2.1.72-arm64.apk"
+    "apkUrl":  "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.73/app-v2.1.73-arm64.apk"
 }
