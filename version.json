@@ -1,11 +1,11 @@
 {
-    "changelog":  "安全管理：复查信息改名为销号情况（销号结果/人/时间）；小区统计改为 整改中/其中已逾期/已整改/其中已销号",
+    "changelog":  "操作日志可撤销：改记录/复查销号/删除/新增一键还原，撤销后自动同步云端",
     "force":  false,
-    "versionName":  "2.1.71",
-    "sha256":  "c2bf9b9fb0d229af592b4802422ccb342284bbee446a66db175cd0f725ec3ccf",
-    "versionCode":  271,
+    "versionName":  "2.1.72",
+    "sha256":  "8591409881cf3ae6d91e2f2351ebeb5674ec8c73cf6f704c5f819978654e474a",
+    "versionCode":  272,
     "apkUrls":  [
-                    "https://github.com/Roman493/app-update/releases/download/v2.1.71/app-v2.1.71-arm64.apk"
+                    "https://github.com/Roman493/app-update/releases/download/v2.1.72/app-v2.1.72-arm64.apk"
                 ],
-    "apkUrl":  "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.71/app-v2.1.71-arm64.apk"
+    "apkUrl":  "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.72/app-v2.1.72-arm64.apk"
 }
