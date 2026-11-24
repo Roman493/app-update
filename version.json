@@ -1,11 +1,11 @@
 {
-    "changelog":  "批处理：Word里打@即可当占位符；图片每页2张、图下居中命名（字段自由组合）+生成前确认；字段映射改全屏页；修复带图片生成崩溃",
+    "changelog":  "数据同步：新增「修复云端」全量重传（云端缺字段时一键补齐）；修复新建云端记录只写编号造成空壳记录",
     "force":  false,
-    "versionName":  "2.1.69",
-    "sha256":  "5878b2e06c7508aab6fed45b6d632d5ee3c184d26ab645c0cd16f433d11741f2",
-    "versionCode":  269,
+    "versionName":  "2.1.70",
+    "sha256":  "49153ce1db15cfe208208066cf9d278021301aba241e193c5646c38d264a85fe",
+    "versionCode":  270,
     "apkUrls":  [
-                    "https://github.com/Roman493/app-update/releases/download/v2.1.69/app-v2.1.69-arm64.apk"
+                    "https://github.com/Roman493/app-update/releases/download/v2.1.70/app-v2.1.70-arm64.apk"
                 ],
-    "apkUrl":  "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.69/app-v2.1.69-arm64.apk"
+    "apkUrl":  "https://ghfast.top/https://github.com/Roman493/app-update/releases/download/v2.1.70/app-v2.1.70-arm64.apk"
 }
