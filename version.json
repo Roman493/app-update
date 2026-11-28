@@ -1,9 +1,9 @@
 {
-    "changelog":  "临时条目：验证消息里的版本更新通知",
+    "changelog":  "消息中心：版本更新通知、云端数据更新通知（可查看谁改了什么并一键同步）；固定编号按最大流水递增并避开云端编号，多人同时新增不再撞号覆盖",
     "force":  false,
-    "versionName":  "2.1.76",
+    "versionName":  "2.1.75",
     "sha256":  "cff3c9b590b04db3736b57e0096347d4ae1f0cd25d79e118e7666d757664f32e",
-    "versionCode":  276,
+    "versionCode":  275,
     "apkUrls":  [
                     "https://github.com/Roman493/app-update/releases/download/v2.1.75/app-v2.1.75-arm64.apk"
                 ],
